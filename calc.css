@@ -1,0 +1,18 @@
+.calculator_keys {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    background-color: fuchsia;
+    padding: 10px;
+    
+    
+
+}
+
+.calculator_keys > div {
+    background-color: orangered;
+    text-align: center;
+    font-size: 20px;
+
+}
+
